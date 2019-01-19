@@ -1,0 +1,13 @@
+{
+	"name" : "duckdesigns/aoc2018",
+	"authors" : [{
+			"name" : "Jakob Dunning",
+			"email" : "jakob_dunning@duckdesigns.de"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"Aoc2018\\" : "src"
+		}
+	}
+}
